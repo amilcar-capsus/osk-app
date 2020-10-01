@@ -6,7 +6,7 @@
         "Oskari"
     ],
     "dependencies": {
-        "oskari-frontend": "file:../oskari-frontend-contrib",
+        "oskari-frontend": "file:../oskari-frontend",
         "oskari-frontend-contrib": "file:../oskari-frontend-contrib"
     },
     "scripts": {
